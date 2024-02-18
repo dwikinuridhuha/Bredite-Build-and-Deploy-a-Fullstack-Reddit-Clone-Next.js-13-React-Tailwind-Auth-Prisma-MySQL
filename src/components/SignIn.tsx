@@ -1,6 +1,7 @@
 import {FC} from 'react';
 import {Icons} from "./Icon";
 import Link from "next/link";
+import UserAuthForm from "./UserAuthForm";
 
 const SignIn: FC = () => {
     return (
@@ -15,6 +16,7 @@ const SignIn: FC = () => {
                     Policy
                 </p>
 
+                <UserAuthForm />
 
                 <p className="px-8 text-center text-sm text-zinc-700">
                     New to Breadit? {' '}
