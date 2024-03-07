@@ -1,5 +1,6 @@
-time point => 55:00
+time point => 01:16:00
 
+break point => 01:16:00
 
 
 https://github.com/joschan21/breadit/tree/master
